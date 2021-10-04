@@ -1,0 +1,27 @@
+.cart__profile {
+  display: flex;
+  flex-direction: row;
+  height: 85.2px;
+  width: 100%;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.cart__profile-icon {
+    width:25px;
+    height:25px;
+}
+
+.cart__profile-notifications {
+    align-items: center;
+    justify-content: center;
+    margin-left: 40px;
+    display: flex;
+    width:55px;
+    height:55px;
+    border-radius:22px;
+    background-color: #FFD543;
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Quicksand;
+}

@@ -1,0 +1,46 @@
+.restaurants {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.restaurants__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  margin: 0 50px 0 50px;
+}
+
+.restaurants__header-title-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.restaurants__header-title-text {
+  font-size: 30px;
+}
+
+.restaurants__header-title-img {
+  margin-left: 10px;
+  width: 35px;
+}
+.restaurants__header-delivery_button {
+  align-items: center;
+  justify-content: space-around;
+  box-sizing: border-box;
+  padding: 0 10px 0 10px;
+  cursor: pointer;
+  background-color: #ff6223;
+  display: flex;
+  flex-direction: row;
+  border-radius: 100px;
+  height: 40px;
+  width: 200px;
+}
+.restaurants__header-delivery-icon {
+  width: 20px;
+}
+.restaurants__header-delivery-text {
+  color: #fff2da;
+}
