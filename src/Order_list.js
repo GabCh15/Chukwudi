@@ -20,7 +20,7 @@ export const Order_list = () => {
         x
       </div>
       <div className="order_list__product-name">{product.name}</div>
-      <div className="order_list__product-price">{product.price}</div>
+      <div className="order_list__product-price">${product.price}</div>
     </div>
   ));
 
