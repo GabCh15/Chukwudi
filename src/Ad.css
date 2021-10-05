@@ -28,7 +28,6 @@
   box-sizing: border-box;
 }
 .ad__text-title {
-      font-family: Quicksand; 
   display: flex;
   margin: 0;
   color: #ec6c3d;
@@ -42,7 +41,6 @@
 }
 
 .ad__text-desc {
-  font-family: Quicksand; 
   margin: 0;
   margin-right:40px;
   font-weight: 500;

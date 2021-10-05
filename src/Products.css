@@ -34,7 +34,6 @@
   bottom: 60px;
   background-color: #f8f8f8;
   border-radius: 0 20px 0 20px;
-  font-family: Quicksand;
 }
 .product__image-text-time {
   font-weight: bold;
@@ -43,7 +42,6 @@
 
 .product__info-title {
   font-weight: bold;
-  font-family: Quicksand;
   font-size: 22px;
   margin-bottom: 10px;
 }
